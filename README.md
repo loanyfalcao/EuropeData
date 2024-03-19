@@ -13,7 +13,9 @@ Countries that presented a large number of residues during the period are also r
 
 Finally, a PowerBi was generated with two analyzes:
 1. Between 1980 and 2020
+
    <img width="179" alt="image" src="https://github.com/loanyfalcao/EuropeData/assets/156198809/0149d6be-2739-44b9-9311-2763045bd2e7">
 
-2. Between 2000 and 2020
+3. Between 2000 and 2020
+   
   <img width="178" alt="image" src="https://github.com/loanyfalcao/EuropeData/assets/156198809/a4a9aaef-f302-4bd2-acd5-0d64c990c52d">
