@@ -32,7 +32,7 @@ In the last 40 years it is possible to notice a significant reduction in the num
    </table>
 
 
-#### Teen Preegnancy
+#### Teen Pregnancy
 Understanding that teenage pregnancy is a risk for the mother and causes several social problems, it is important to analyze which countries have rates higher than the European average (3%). It is possible to highlight Hungary as one of the countries with the lowest reduction in the rate of teenage pregnancies.
 
 <table>
@@ -50,7 +50,7 @@ Understanding that teenage pregnancy is a risk for the mother and causes several
 
 
 
-#### Risk Preegnancy
+#### Risk Pregnancy
 Based on the data, it is possible to define that the rate of risk pregnancies tends to increase over the next few years, making it necessary for the health system to be able to receive these women and provide the best treatment. Therefore, it is important to highlight the countries that show a greater increase than the European average, understanding that these countries need to seek improvements aimed at these women with greater urgency.
 
 <table>
